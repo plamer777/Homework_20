@@ -1,5 +1,7 @@
 ## Homework 20
-This application was created with the purpose is to try different pytest functions like mocks and fixtures. The main part of the application is almost the same as provided in previous repository. There're some test classes realized in the application:
+This application was created with the purpose is to try different pytest functions like mocks and fixtures. The main part of the application is almost the same as provided in previous repository. 
+
+There're some test classes realized in the application:
 
  - TestMovieService - the class tests a MovieService class of the app
  - TestGenreService - the class tests a GenreService class of the app
